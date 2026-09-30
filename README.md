@@ -48,8 +48,7 @@ No real identifiable person's likeness or cloned voice was used.
 
 ## Repository Structure
 
-### `PHASE_A_ETHICAL_ANALYSIS.md`
-
+[Read the Phase A Ethical Analysis](PHASE_A_ETHICAL_ANALYSIS.md)
 Contains the ethical analysis grounded in my Task 6 experience.
 
 The analysis examines:
@@ -69,7 +68,7 @@ It also evaluates the mitigation landscape:
 - Professional and organizational norms
 
 
-### `SYNTHETIC_MEDIA_POLICY.md`
+[Read the Synthetic Media Policy](SYNTHETIC_MEDIA_POLICY.md)
 
 Contains the Phase B governance artifact.
 
@@ -91,8 +90,7 @@ The policy establishes requirements for:
 - Refusal to produce synthetic media
 
 
-### `POLICY_LIMITATIONS.md`
-
+[Read the Policy Limitations and Residual Risk](POLICY_LIMITATIONS.md)
 Stress-tests the governance policy and identifies residual risks,
 including:
 
